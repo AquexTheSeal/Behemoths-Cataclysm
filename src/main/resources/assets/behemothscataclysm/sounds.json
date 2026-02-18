@@ -1,0 +1,14 @@
+{
+  "cataclysmic_critical_hit": {
+    "sounds": [
+      "behemothscataclysm:cataclysmic_critical_hit"
+    ],
+    "subtitle": "behemothscataclysm.subtitle.cataclysmic_critical_hit"
+  },
+  "deepling_priest_heal": {
+    "sounds": [
+      "behemothscataclysm:deepling_priest_heal"
+    ],
+    "subtitle": "behemothscataclysm.subtitle.deepling_priest_heal"
+  }
+}
